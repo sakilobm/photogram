@@ -1,7 +1,0 @@
-{
-	"db_server": "mysql.selfmade.ninja",
-	"db_username": "bharath",
-	"db_password": "sakilbharath@5",
-	"db_name": "bharath_newDb",
-	"base_path": "/web3/"
-}
